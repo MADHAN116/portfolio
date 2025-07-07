@@ -1,8 +1,6 @@
 # 💼 Madhan M - Portfolio Website
 
 Welcome to my personal portfolio website!  
-This site showcases my skills, projects, education, experience, and contact information — all wrapped in a sleek UI inspired by the **New Zealand Blackcaps color palette** 🖤💙⚪.
-
 ![Portfolio Screenshot](screenshot.png) <!-- Optional: Add screenshot in repo -->
 
 ---
