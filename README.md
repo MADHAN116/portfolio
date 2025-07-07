@@ -1,46 +1,49 @@
-# 💼 Madhan M - Portfolio Website
+# 💻 Madhan M – Developer Portfolio
 
-Welcome to my personal portfolio website!  
-![Portfolio Screenshot](screenshot.png) <!-- Optional: Add screenshot in repo -->
+Welcome to the personal portfolio of **Madhan M**, a passionate **Computer Science Engineer** and **MERN Stack Developer**. This responsive, modern, and animated website showcases my skills, projects, experiences, and contact details in one place.
 
----
-
-## 🌐 Live Preview
-
-🔗 [Click here to view the live site](https://your-deployment-link.com)  
-> *(Replace with your GitHub Pages or Render/Vercel/Netlify link)*
+![Screenshot](./screenshot.png) <!-- Optional: Replace with actual screenshot image -->
 
 ---
 
-## 🚀 Technologies Used
+## 📌 Live Preview
 
-- **HTML5** & **CSS3**
-- **JavaScript (Vanilla)**
-- **Font Awesome 6**
-- Responsive Design with Media Queries
-- Light animation and interactivity using:
-  - Scroll-triggered reveals
-  - Hero animation
-  - Section filtering
+🚀 **Live URL:** [Your Live Site URL (e.g., Vercel/Netlify)](https://your-live-link.vercel.app)
 
 ---
 
-## 🖌️ Theme Inspired By
+## 🧩 Tech Stack
 
-New Zealand Cricket Jersey:
-- `#000000` (Jet Black) - Primary Background
-- `#00BCE4` (Aqua Blue) - Accent/Highlights
-- `#C0C0C0` (Silver Gray) - Text and Shadows
+This portfolio is built using **modern HTML, CSS, and JavaScript**, designed with clean animations and responsive layouts.
+
+- 💻 **Frontend:** HTML5, CSS3, Vanilla JavaScript
+- 🎨 **Icons:** Font Awesome 6
+- 🌐 **Responsive Design:** Media Queries, Flexbox, Grid
+- 💡 **Visual Enhancements:** CSS Animations, Gradients, Blur effects
 
 ---
 
-## 📁 Folder Structure
+## 📁 Project Structure
 
-```bash
-/
-├── index.html             # Main portfolio webpage
-├── assets/
-│   ├── profile.png        # Profile picture
-│   └── resume.pdf         # Downloadable resume
-├── style.css              # Inline styles included in HTML (optional to separate)
-└── README.md              # You're reading it now
+portfolio/
+│
+├── index.html # Main HTML file
+├── style.css # Inline or externalized CSS styles
+├── assets/ # Images, profile picture, icons
+├── scripts/ # (Optional) JavaScript logic (scroll, menu, etc.)
+├── README.md # This file
+└── .gitignore # Git ignored files
+
+
+---
+
+## ✨ Features
+
+- 🔹 Interactive navigation bar with scroll animation
+- 🔹 Hero section with glowing animated name and gradient text
+- 🔹 About, Skills, Projects, Experience, Education, and Contact sections
+- 🔹 Project filtering system (e.g., MERN, Full Stack)
+- 🔹 Responsive design (mobile-first)
+- 🔹 Preloader spinner animation
+- 🔹 Download Resume (placeholder for now)
+- 🔹 Smooth transitions and hover effects
